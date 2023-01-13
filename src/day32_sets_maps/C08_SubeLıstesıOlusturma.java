@@ -9,6 +9,6 @@ public class C08_SubeLıstesıOlusturma {
         //verılen sınıf ve sube ısmı ıle sınıf lıstesını yazdıran method olusturun
         Map<Integer,String> ogrencıMap=MapMethodDepo.ogrencıMapOlustur();
 
-        MapMethodDepo.sınıfLıstesıYazdırma(ogrencıMap,"11","H");
+        MapMethodDepo.sınıfLıstesıYazdırma(ogrencıMap,"11");
     }
 }
